@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @naloisacoder
+- 👀 I’m interested in ethical hacking and machine learning.
+- 🌱 I’m currently looking forward to learn Python, Javascript and many more.
+- 💞️ I’m looking to being in touch with individuals with knowledge on the above interests.
+- 📫 Reach me @nalomeshack@gmail.com or +254705157225
